@@ -1,11 +1,10 @@
-ExtendedVisualizers
-===================
+# ExtendedVisualizers
 
 A project for Visual Studio 2010 Visualizers.  
 
 
-ExtendedDataSetVisualizer
-=========================
+## ExtendedDataSetVisualizer
+
 Currently contains an Extended DataSet Visualizer for VS2010.   Yes, we have legacy code that uses DataSets :-).
 
 The Visualizer lets you see all the rows in a DataSet whether they are Added, Deleted or Modified.  This can help when 
@@ -18,8 +17,7 @@ Here is an article I wrote - http://www.codeproject.com/Articles/16199/Extended-
 This Visualizer doesn't have row filtering.
 
 
-INSTALLATION
-============
+## INSTALLATION
 
 To Install the ExtendedVisualizers see http://msdn.microsoft.com/en-us/library/sb2yca43.aspx
 
